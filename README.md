@@ -1,1 +1,1 @@
-# https://cormac0s.github.io
+# cormac0s.github.io
